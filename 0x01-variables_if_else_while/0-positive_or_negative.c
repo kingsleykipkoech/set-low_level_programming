@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - prints whether the number stored in the variable n is positive or negative
  *
  * Return: Always 0 (Success)
  */
