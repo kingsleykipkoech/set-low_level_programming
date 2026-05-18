@@ -6,9 +6,6 @@
  * @min: the minimum value (included)
  * @max: the maximum value (included)
  *
- * Description: The array contains all values from min to max,
- *              ordered from min to max.
- *
  * Return: pointer to the newly created array, or NULL on failure
  */
 int *array_range(int min, int max)

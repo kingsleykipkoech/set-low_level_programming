@@ -2,12 +2,9 @@
 #include "main.h"
 
 /**
- * _calloc - allocates memory for an array and zeroes it out
+ * _calloc - allocates memory for an array and sets it to zero
  * @nmemb: number of elements
  * @size: size of each element in bytes
- *
- * Description: Allocates memory for an array of nmemb elements
- *              of size bytes each. The memory is set to zero.
  *
  * Return: pointer to allocated memory, or NULL on failure
  */
